@@ -1,0 +1,8 @@
+build/
+*.jou
+*.log
+*.str
+.Xil/
+vivado*.backup.*
+webtalk*
+*.lic
